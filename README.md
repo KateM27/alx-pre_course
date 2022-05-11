@@ -1,2 +1,3 @@
-My first readme
-## my first project alx
+#My first readme
+
+My first ALX School project
